@@ -1,3 +1,5 @@
+/////// CODICE PROVVISORIO //////////
+
 //Elenco accordi estesi su tutta la scala
 
 ~chordArrays = (
