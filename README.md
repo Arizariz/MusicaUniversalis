@@ -56,4 +56,23 @@ To run this project:
 ## Other material
 
 We use the following external dependencies:
-- dfgh
+- **XR Plugin Management** @4.4.0
+Package that provides simple management of XR plug-ins. Manages and offers help with loading, initialization, settings, and build support for XR plug-ins.
+- **TextMeshPro** @3.0.6
+TextMeshPro is the ultimate text solution for Unity
+- [**Oculus Integration**](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) @4.0.0
+Provides display and input support for Oculus devices.
+- [**Vast Outer Space**](https://assetstore.unity.com/packages/3d/environments/sci-fi/vast-outer-space-38913) @1.0
+This is a great modular outer space package for you to create your very own unique outer space environments.
+- [**Quick Outline**](https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488) @1.1
+Quick Outline is a world-space outline tool, that adds a solid outline to any object.
+- [**LeanTween**](https://assetstore.unity.com/packages/tools/animation/leantween-3595) @2.51
+Moving game objects smoothly with ease in and out
+- [**UnityOSC**](https://thomasfredericks.github.io/UnityOSC/) @1.0
+Open Sound Control (OSC) integration for Unity
+
+## References
+[1]
+[2]
+[3]
+[4]
