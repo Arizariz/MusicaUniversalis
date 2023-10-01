@@ -6,7 +6,7 @@
 //                                                                        |
 // Project structure:  sclang  <--- OSC ---> scsynth <--- OSC --- unity   |
 //                                                                        |
-// This code represent the sclang and scsynth part.                       |
+// This code represents the sclang and scsynth part.                      |
 //                                                                        |
 // INPUT: OSC message with selected chord (tonality & color, [c, cmaj7] ) |
 //                                                                        |
