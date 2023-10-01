@@ -32,7 +32,28 @@ The Musica_Universalis.scd file describes internally the process whole step by s
 
 ## To run this project
 
+Rquirements:
+- SuperCollider (3.11.2)
+- Unity 2022.3.9f1 and Unity Hub (3.5.2)
+- MQDH (Meta Quest Developer Hub), (3.8.0)
+- Meta Quest 2
+
+To run this project:
+
+1) Download and run SuperCollider
+2) Open \SuperCollider\Musica_Universalis.scd
+3) Select the whole code and run it (Shift+Enter)
+4) Power on your Meta Quest 2 and connect it to your PC with the USB cable
+5) On your Meta Quest 2, put your VR in Quest Link mode by clicking Settings > System > Quest Link > Run Quest Link
+6) Open MQDH software and ensure that in Device Manager tab your Meta Quest 2 is properly connected
+7) Unzip musica_universalis.zip
+8) Open Unity Hub and import the project by clicking Open and selecting the unzipped folder
+9) Open the project and wait for loading all the components
+10) Click _Play_ button and enjoy the experience in VR
+
+
 
 ## Other material
 
- 
+We use the following external dependencies:
+- dfgh
