@@ -36,7 +36,9 @@ In concepting this new artistic representation, we proceeded to describe the the
 When the user selects a planet or a star, our _Melody Generator_ will create a random melody based on the selected chord (through OSC messages), based on the conventional rules of tonal harmony and counterpoint.
 The motivation behind this representation is dual. First, we aim to explore a new way to provide an immersive experience to the user, in order to let him feel fully involved in the process of stochastic composition. But this is not just thought as a emotional experience, but also as a didactic tool for harmony students who can approach differently this topic, in an interactive and visual way.
 
+![Universe1](img/p1.png)
 
+![Universe2](img/p2.png)
 
 
 ## To run this project
