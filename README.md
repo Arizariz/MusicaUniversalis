@@ -57,7 +57,7 @@ To run this project:
 4) Power on your Meta Quest 2 and connect it to your PC with the USB cable
 5) On your Meta Quest 2, put your VR in Quest Link mode by clicking Settings > System > Quest Link > Run Quest Link
 6) Open MQDH software and ensure that in Device Manager tab your Meta Quest 2 is properly connected
-7) Download from \Unity musica_universalis.zip (Google Drive link) and unzip
+7) Download from \Unity musica_universalis.zip (Google Drive link in README.md) and unzip
 8) Open Unity Hub and import the project by clicking Open and selecting the unzipped folder
 9) Open the project and wait for loading all the components
 10) Click _Play_ button and enjoy the experience in VR
