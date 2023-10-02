@@ -73,11 +73,15 @@ Open Sound Control (OSC) integration for Unity
 
 
 ## References
+
 [1] Robert M. Keller, David R. Morrison. A Grammatical Approach to Automatic Impro-
 visation. Proceedings SMC'07, 4th Sound and Music Computing Conference, 11-13
 July 2007, Lefkada, Greece. 
+
 [2] Jon Gillick, Kevin Tang, Robert M. Keller. Machine Learning of Jazz Grammars.
 Computer Music Journal 34(3):56-66, September 2010.
+
 [3] Robert M. Keller, David Morrison, Stephen Jones, Belinda Thom, Aaron Wolin. A
 Computational Framework Enhancing Jazz Creativity. Published 2006.
+
 [4] Edgard Varese, Concepts of Organized Sound. Jan. 1982.
