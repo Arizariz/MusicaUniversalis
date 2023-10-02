@@ -15,13 +15,13 @@ Drawing inspiration from Keller's work, considered as a reference point, we have
 The problem of generating melodic lines that are consistent with a given chord can be tackled from different perspectives. But in general, to generate music, the following parameters have to be defined for each note: _onset time_, _duration_ and _pitch_. We proceed separating the "temporal problem" from the "spatial problem". Since the generation of the pitches varies with respect to their position in time (due to musical constraints about _chords notes_ versus _passing notes_), we decided to first generate the temporal features of each note and then the pitches.
 The flowchart in the following picture represents our approach on an high level of abstraction.
 
-![Flowchart](img/flow1.png)
+
 
 As mentioned before, the task of our pattern generator is to analyze a chord given as input and generate a melodic line as output using the best fitting modal scale. 
 Let us recall that music, often defined as organized sound [4], is characterized by multiple events aimed at stimulating our perception. This process is two-dimensional. In fact, it develops both horizontally (sequentially) and vertically (synchronously). Harmony is the relationship that is established in parallel between several sounds. 
 First off, to automatically analyze a chord and generate a good souding melody on top of it, it was necessary to define the input, choosing a set of chords consistent with a reference harmonic syntax (in our case the tonal harmony). Specifically, we decided to use the triads and quadriads obtained from the harmonization of the major scale which are the following: Major, Minor, Major7 (delta), Minor7, Dominant, Half-diminished (the approach could certainly be generalized to any type of chord). Here's the representation of the chords, ordered by pitch and _darkness_ :
 
-![Flowchart](img/flow1.png)
+
 
 Once we defined the input chords, the flowchart representing our approach on a lower level of abstraction can be conceptualized as follows:
 
