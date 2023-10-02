@@ -32,6 +32,10 @@ Once we defined the input chords, the flowchart representing our approach on a l
 The Musica_Universalis.scd file describes the whole process step by step. Each part of the code is deeply commented, explaining the approach in detail at its own core.
 
 ## Virtual Reality Environment and Representation
+In concepting this new artistic representation, we proceeded to describe the theme, the motivation and the user experience. As the title "Musica Universalis" says, the theme derives from the theory of the music of the spheres, which originated in antiquity and continued to be followed at least until the 17th century, arousing the interest of philosophers, musicologists, and musicians. The strict analogy between the celestial harmony and musical harmony led us to represent musical chords as planets in a spatial environment. Each solar system represents a tonal center, with its seventh chords (build on each grade of the diatonic scale) represented as planets orbiting their own star. The twelve stars are displaced in circle, forming the so called "circle of fifths" (a peculiar way of organizing the 12 chromatic pitches as a sequence of perfect fifths). This intuitive representation resembles both the natural displacement of the planets and stars, and the logic behind the seventh chords orbitating their tonic. 
+When the user selects a planet or a star, our _Melody Generator_ will create a random melody based on the selected chord (through OSC messages), based on the conventional rules of tonal harmony and counterpoint.
+The motivation behind this representation is dual. First, we aim to explore a new way to provide an immersive experience to the user, in order to let him feel fully involved in the process of stochastic composition. But this is not just thought as a emotional experience, but also as a didactic tool for harmony students who can approach differently this topic, in an interactive and visual way.
+
 
 
 
