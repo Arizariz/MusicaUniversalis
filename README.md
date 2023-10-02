@@ -17,7 +17,7 @@ The flowchart in the following picture represents our approach on an high level 
 
 
 <p align="center">
-  <img src="img/flow1.png" alt="drawing" width="100"/>
+  <img src="img/flow1.png" alt="drawing" width="450"/>
 </p align="center">
 
 
@@ -26,13 +26,13 @@ Let us recall that music, often defined as organized sound [4], is characterized
 First off, to automatically analyze a chord and generate a good souding melody on top of it, it was necessary to define the input, choosing a set of chords consistent with a reference harmonic syntax (in our case the tonal harmony). Specifically, we decided to use the triads and quadriads obtained from the harmonization of the major scale which are the following: Major, Minor, Major7 (delta), Minor7, Dominant, Half-diminished (the approach could certainly be generalized to any type of chord). Here's the representation of the chords, ordered by pitch and _darkness_ :
 
 <p align="center">
-  <img src="img/chords.png" alt="drawing" width="100"/>
+  <img src="img/chords.png" alt="drawing" width="250"/>
 </p align="center">
 
 Once we defined the input chords, the flowchart representing our approach on a lower level of abstraction can be conceptualized as follows:
 
 <p align="center">
-  <img src="img/flow2.png" alt="drawing" width="100"/>
+  <img src="img/flow2.png" alt="drawing" width="550"/>
 </p align="center">
 
 The Musica_Universalis.scd file describes the whole process step by step. Each part of the code is deeply commented, explaining the approach in detail at its own core.
