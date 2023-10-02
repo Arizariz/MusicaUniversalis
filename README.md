@@ -84,4 +84,4 @@ Computer Music Journal 34(3):56-66, September 2010.
 [3] Robert M. Keller, David Morrison, Stephen Jones, Belinda Thom, Aaron Wolin. A
 Computational Framework Enhancing Jazz Creativity. Published 2006.
 
-[4] Edgard Varese, Concepts of Organized Sound. Jan. 1982.
+[4] Edgard Varèse, Concepts of Organized Sound. Jan. 1982.
