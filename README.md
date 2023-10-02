@@ -54,7 +54,7 @@ Rquirements:
 - SuperCollider (3.11.2)
 - Unity 2022.3.9f1 and Unity Hub (3.5.2)
 - MQDH (Meta Quest Developer Hub), (3.8.0)
-- Meta Quest 2
+- Meta Quest 2 VR Headset and hand controller
 
 To run this project:
 
