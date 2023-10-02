@@ -24,7 +24,7 @@ First off, to automatically analyze a chord and generate a good souding melody o
 Once we defined the input chords, the flowchart representing our approach on a lower level of abstraction can be conceptualized as follows:
 
 
-The Musica_Universalis.scd file describes internally the process whole step by step. Each part of the code is deeply commented, explaining the approach in detail at its own core.
+The Musica_Universalis.scd file describes the whole process step by step. Each part of the code is deeply commented, explaining the approach in detail at its own core.
 
 ## Virtual Reality Environment and Representation
 
