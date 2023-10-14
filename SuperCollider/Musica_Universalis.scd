@@ -8,7 +8,7 @@
 //                                                                        |
 // This code represents the sclang and scsynth part.                      |
 //                                                                        |
-// INPUT: OSC message with selected chord (tonality & color, [c, cmaj7] ) |
+// INPUT: OSC message with selected chord (tonality&color, eg [c, cmaj7]) |
 //                                                                        |
 // OUTPUT: generated melody arrays (pitches and durations) & playback     |
 //                                                                        |
@@ -47,9 +47,9 @@ s.boot;
 
 /* CHORD & SCALES ARRAYS
 
-DESCRIPTION: the following array represent extensions of triads and quadriads (MIDI note numbers) along the whole keyboard.
-It will be greatly used during the project, specifically for selecting ON BEAT notes (vs OFF BEAT notes).
-(ON BEAT notes are be part of the underlying chord, while OFF BEAT notes can be any note of the respective tonality)
+DESCRIPTION: the following arrays represent extensions of triads and quadriads (MIDI note numbers) along the whole keyboard.
+They will be greatly used in the project, specifically for selecting ON BEAT notes (vs OFF BEAT notes).
+(ON BEAT notes are part of the underlying chord, while OFF BEAT notes can be any note of the respective tonality)
 
 */
 
