@@ -8,7 +8,8 @@
 //                                                                        |
 // This code represents the sclang and scsynth part.                      |
 //                                                                        |
-// INPUT: OSC message with selected chord (tonality&color, eg [c, cmaj7]) |
+// INPUT: OSC message with selected chord from major scale harmony        |
+//        (example: [c, c7], or [c, c] in case of a triad)                | 
 //                                                                        |
 // OUTPUT: generated melody arrays (pitches and durations) & playback     |
 //                                                                        |
